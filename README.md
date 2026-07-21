@@ -12,7 +12,7 @@ I am a:
 - 🐧 Linux user (Fedora, btw; former CachyOS user)
 
 ## Current projects:
-- 🎩 fedora-update, a CLI tool written in Rust for system updates inspired by Arch-Update!
+- 🎩 [fedora-update](https://github.com/duduxico-dungeonmite/fedora-update), a CLI tool written in Rust for system updates inspired by Arch-Update!
 - 💿 Secret Album™
 - 🤖 Secret Novel™
 - Life (because life is a never-ending project)
