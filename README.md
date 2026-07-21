@@ -1,16 +1,20 @@
-## Hi there 👋
+# If you stumbled here, maybe from nowhere...
+Hello there.
 
-<!--
-**duduxico-dungeonmite/duduxico-dungeonmite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+I am a:
+- 🎮 Former game developer (under the name of Game Rulez on itch.io and GameJolt)
+- 💻 Embedded programmer and amateur software developer (for embedded: https://github.com/eduardo-fran-ber-mancia)
+- 🎸 Musician/guitarist (under the name of DungeonMite - on [SoundCloud](https://soundcloud.com/dungeonmitee), [Bandcamp](https://dungeonmite.bandcamp.com/) and [BandLab](https://www.bandlab.com/dungeonmite))
+- 📚 Writer
+- 🤓 Student & Nerd
+- ⚜️ Boy Scout
+- 🐧 Linux user (Fedora, btw; former CachyOS user)
 
-Here are some ideas to get you started:
+## Current projects:
+- 🎩 fedora-update, a CLI tool written in Rust for system updates inspired by Arch-Update!
+- 💿 Secret Album™
+- 🤖 Secret Novel™
+- Life (because life is a never-ending project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GENERAL KENOBI!
