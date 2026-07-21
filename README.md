@@ -11,8 +11,8 @@ I'm a:
 - 🤓 Student & Nerd
 - ⚜️ Boy Scout
 - 🐧 Linux user (Fedora, btw; former CachyOS user)
-- 📀 Music Collector [Discogs](https://www.discogs.com/user/duduxico/collection)
--...and much more!
+- 📀 Music Collector [(Discogs)](https://www.discogs.com/user/duduxico/collection)
+- ...and much more!
 ## Current projects:
 - 🎩 [fedora-update](https://github.com/duduxico-dungeonmite/fedora-update), a CLI tool written in Rust for system updates inspired by Arch-Update!
 - 💿 Secret Album™
